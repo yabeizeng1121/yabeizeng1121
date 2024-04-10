@@ -18,8 +18,8 @@ I'm currently pursuing my Master's in Interdisciplinary Data Science at Duke Uni
 - **[Text Summarize App](https://github.com/nogibjj/Individual_Project_4_Yabei)**: A web application for efficient text summarization, leveraging the power of GPT-3.5 and Flask.
 
 ## 📚 Education
-- **Duke University**: Master in Interdisciplinary Data Science (GPA: 4.00)
-- **University of California - Santa Barbara**: Bachelor of Statistics and Data Science, Minor in Earth Science (GPA: 3.73)
+- **Duke University**: Master in Interdisciplinary Data Science 
+- **University of California - Santa Barbara**: Bachelor of Statistics and Data Science, Minor in Earth Science 
 
 ## 📌 Experience
 - **Graduate Teaching Assistant** at Duke University, guiding students in data analysis and machine learning techniques.
