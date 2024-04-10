@@ -2,6 +2,7 @@
 
 🎓 **Master's Student in Interdisciplinary Data Science at Duke University**  
 🔍 **Passionate about Data Science, Machine Learning, and Software Engineering**
+
 🌱 **Looking for roles in Data Science, Data Analysis, Data Engineering, and Machine Learning Engineering**
 
 ## 🌟 About Me
