@@ -14,6 +14,7 @@ I'm currently pursuing my Master's in Interdisciplinary Data Science at Duke Uni
 - **Packages**: Pandas, Numpy, Scipy, Scikit-learn, Tensorflow, Keras, PyTorch
 
 ## 🚀 Projects
+- **[Car Recommendation](https://gitlab.com/jaxonyue/ids-721-final-project)**:Using Rust actix_web to build a interactive web app for car recommendation based on user preferences
 - **[Steam Review Analyzer](https://github.com/nogibjj/Steam_Review__Analyzer/tree/main)**: An interactive tool for analyzing game reviews on Steam, utilizing sentiment analysis and data visualization.
 - **[Text Summarize App](https://github.com/nogibjj/Individual_Project_4_Yabei)**: A web application for efficient text summarization, leveraging the power of GPT-3.5 and Flask.
 
