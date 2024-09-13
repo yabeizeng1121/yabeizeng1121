@@ -30,5 +30,5 @@ I'm currently pursuing my Master's in Interdisciplinary Data Science at Duke Uni
 - [LinkedIn](https://www.linkedin.com/in/yabei-zeng/)
 - [GitHub](https://github.com/yabeizeng1121)
 - [GitLab](https://gitlab.com/yabeizeng1121)
-- [Personal Website](https://yabeizeng.vercel.app)
+- [Personal Website](https://yabeizeng1121.github.io/my-personalweb-react/)
 
